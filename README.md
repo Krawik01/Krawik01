@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student of computer science at PJATK in Warsaw 🚀 and I am from Poland.
+I am a student of computer science at PJATK in Warsaw 🚀
 
 ### 🛠️ Languages and Tools:
 
