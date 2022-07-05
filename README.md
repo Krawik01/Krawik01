@@ -8,4 +8,6 @@ I am a student of computer science at PJATK in Warsaw 🚀 and I am from Poland.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krawik01&show_icons=true&theme=cobalt)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 📫 How to reach me: KrawikCON@gmail.com
