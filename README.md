@@ -2,7 +2,7 @@
 
 I am a student of computer science at PJATK in Warsaw 🚀 and I am from Poland.
 
-🛠️ Languages and Tools:
+###🛠️ Languages and Tools:
 
 Java MySQL C++ Git GitHub
 
