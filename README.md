@@ -9,3 +9,5 @@ I am a student of computer science at PJATK in Warsaw 🚀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krawik01&show_icons=true&theme=midnight-purple)
 
 📫 How to reach me: KrawikCON@gmail.com
+
+👋
