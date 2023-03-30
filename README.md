@@ -4,7 +4,7 @@ I am a student of computer science at PJATK in Warsaw 🚀
 
 ### 🛠️ Languages and Tools:
 
-Java -> Spring boot, Hibernate
+Java -> Spring boot, Hibernate \n
 Python
 C++
 C#
