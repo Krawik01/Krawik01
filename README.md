@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tymoteusz Krawiecki</h1>
 <h3 align="center">Junior Java Developer</h3>
 
-- 🌱 I’m currently learning **Spring boot, Hiberante**
+- 🌱 I’m currently learning **Spring boot, Kafka**
 
 - 📫 How to reach me **tymek.krawiecki@gmail.com**
 
